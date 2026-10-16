@@ -62,7 +62,7 @@ Por un lado a la empresa que consultará los datos del alumnado. También a los 
 - cómo se ordenan los proyectos
 
 ## 11. Assumptions
--
+- 
 
 ## 12. Dependencies
 - hay un perfil de ejemplo en ../data/profile.json que se puede usar para trabajar y luego cada alumno que lo personalice
